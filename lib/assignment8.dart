@@ -21,7 +21,7 @@ class _MyApp extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Assignment 8'),
+          title: Text('Rainbow six siege'),
         ),
         body: Column(
           children: [
